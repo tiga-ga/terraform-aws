@@ -1,0 +1,1 @@
+https://tech.dentsusoken.com/entry/terraform_manage_master_user_password
